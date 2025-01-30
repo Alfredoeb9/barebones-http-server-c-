@@ -1,0 +1,35 @@
+# C++ build directories
+/build/
+bin/
+obj/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeError.log
+CMakeOutput.log
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.out
+*.exe
+*.app
+
+# Temporary files
+*.log
+*.tmp
+
+# Debug/Release directories
+/debug/
+release/
+
+# Dependency directories (for package managers like vcpkg, Conan, etc.)
+/vcpkg/*
+/conan/*
